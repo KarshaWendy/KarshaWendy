@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**KarshaWendy/KarshaWendy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Wendy here
 
     🌱 I’m a software developer.
